@@ -1,0 +1,38 @@
+node_modules/
+target/
+dist/
+.expo/
+*.log
+
+# Eclipse / Spring Tool Suite
+.metadata/
+**/.metadata/
+.settings/
+.project
+.classpath
+
+# IntelliJ / VS Code
+.idea/
+.vscode/
+
+# Node dependencies
+node_modules/
+dist/
+.expo/
+
+# Java / Maven
+**/target/
+*.class
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
